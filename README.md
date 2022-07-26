@@ -1,6 +1,8 @@
 # Project-1-street-style-landing-page 
 
 ##  Created by `Muskan` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+> ### **Live deployed website link** :-[Netlify link](https://street-style-landingpage.netlify.app/)
+<br>
 <span>
 <img src="https://img.shields.io/badge/html-5-orange">
 <img src="https://img.shields.io/badge/css-3-brightgreen">
