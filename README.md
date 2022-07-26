@@ -6,7 +6,7 @@
 <span>
 <img src="https://img.shields.io/badge/html-5-orange">
 <img src="https://img.shields.io/badge/css-3-brightgreen">
-  <img src="https://img.shields.io/badge/Netlify-deploy-critical">">
+  <img src="https://img.shields.io/badge/Netlify-deploy-critical">
   <img src="https://img.shields.io/badge/github-deploy-yellow">
 </span>
 
